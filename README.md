@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Profile Image (يتم جلب صورتك الشخصية تلقائياً من الحساب) -->
-  <img src="https://github.com/MR-Karar.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #38bdf8; padding: 4px;" alt="MR-Karar" />
+  <!-- Profile Image (Purple Cyber Style - 250px) -->
+  <img src="https://github.com/MR-Karar.png" width="250" height="250" style="border-radius: 50%; border: 6px solid #818cf8; padding: 8px; background-color: #1e1b4b;" alt="MR-Karar" />
 
   <br><br>
 
-  <h1>👋 Hello, I'm <span style="color: #38bdf8;">MR-Karar</span></h1>
+  <h1>👋 Hello, I'm <span style="color: #818cf8;">MR-Karar</span></h1>
 
   <!-- Animated Role Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=35&lines=Cybersecurity+Student;Full-Stack+Developer;Web+Security+%26+Networking" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vcenter=true&width=500&height=35&lines=Cybersecurity+Student;Full-Stack+Developer;Web+Security+%26+Networking" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -51,10 +51,10 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-Karar&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Karar&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-Karar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Karar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Karar&theme=dark&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Karar&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 ---
